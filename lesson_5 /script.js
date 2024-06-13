@@ -15,3 +15,4 @@ let john = {
 // let john = Object.create(soldier);
 Object.setPrototypeOf(john, soldier);
 console.log(john.angry()); // Твой папаша-гнида служил во Вьетнаме?!
+
