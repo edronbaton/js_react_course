@@ -1,1 +1,1 @@
-# JS-REACT-Course
+# js-react-course
